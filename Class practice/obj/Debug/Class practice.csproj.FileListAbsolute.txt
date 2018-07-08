@@ -1,0 +1,7 @@
+C:\Users\rose\source\repos\Class practice\Class practice\bin\Debug\Class practice.exe.config
+C:\Users\rose\source\repos\Class practice\Class practice\bin\Debug\Class practice.exe
+C:\Users\rose\source\repos\Class practice\Class practice\bin\Debug\Class practice.pdb
+C:\Users\rose\source\repos\Class practice\Class practice\obj\Debug\Class practice.csprojAssemblyReference.cache
+C:\Users\rose\source\repos\Class practice\Class practice\obj\Debug\Class practice.csproj.CoreCompileInputs.cache
+C:\Users\rose\source\repos\Class practice\Class practice\obj\Debug\Class practice.exe
+C:\Users\rose\source\repos\Class practice\Class practice\obj\Debug\Class practice.pdb
